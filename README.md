@@ -1,4 +1,4 @@
-# Employee Salary Prediction Web App
+<img width="1670" height="123" alt="image" src="https://github.com/user-attachments/assets/11d19738-41dc-4b41-8efb-6ab5e36d1655" /># Employee Salary Prediction Web App
 
 ![IBM SkillBuild](https://img.shields.io/badge/IBM%20SkillBuild-Internship%20Project-blue)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)](https://employee-salary-prediction-nvemncdd2i3cevace2l4zb.streamlit.app/)
@@ -62,7 +62,8 @@ To run this project on your local machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/employee-salary-prediction.git](https://github.com/your-username/employee-salary-prediction.git)
+git clone [https://github.com/your-username/employee-salary-prediction.git](https://github.com/abhinavgit1/Employee-Salary-Prediction.git)<img width="1670" height="123" alt="image" src="https://github.com/user-attachments/assets/b0b6cb83-5ee0-42ed-a7eb-371ed16a03fd" />
+)
 cd employee-salary-prediction
 ```
 
