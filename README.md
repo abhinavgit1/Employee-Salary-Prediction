@@ -1,6 +1,6 @@
 # Employee Salary Prediction Web App
 
-[![IBM SkillBuild](https://img.shields.io/badge/IBM%20SkillBuild-Internship%20Project-blue)]
+[![IBM SkillBuild](https://img.shields.io/badge/IBM%20SkillBuild-Internship%20Project-blue)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)](https://employee-salary-prediction-nvemncdd2i3cevace2l4zb.streamlit.app/)
 
 This project is a machine learning web application that predicts whether an individual's annual income is likely to be more or less than $50,000. The model is trained on the US Adult Census dataset and deployed as an interactive web app using Streamlit.
