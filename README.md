@@ -12,7 +12,7 @@ This project was developed as part of the **Edunet Foundation's IBM SkillBuild I
 ## Live Demo
 
 You can access the live application here:
-**[https://your-streamlit-app-url.streamlit.app/](https://your-streamlit-app-url.streamlit.app/)** *(Note: Replace this with your actual deployed Streamlit URL)*
+**[https://your-streamlit-app-url.streamlit.app/](https://employee-salary-prediction-nvemncdd2i3cevace2l4zb.streamlit.app/)** *(Note: Replace this with your actual deployed Streamlit URL)*
 
 ---
 
@@ -106,13 +106,3 @@ The machine learning model was developed in the `employee salary prediction.ipyn
 4.  **Final Model:** The **Gradient Boosting Classifier** was selected as the best-performing model, achieving an accuracy of **85.7%** on the test set. This model was then saved as `best_model.pkl`.
 
 ---
-
-## Application Screenshots
-
-*(You can add screenshots of your running application here)*
-
-**Single Prediction Interface:**
-![Single Prediction](https://i.imgur.com/gK5UjQ6.png)
-
-**Batch Prediction Interface:**
-![Batch Prediction](https://i.imgur.com/eB3f8Jm.png)
